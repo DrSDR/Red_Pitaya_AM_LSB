@@ -22,6 +22,12 @@ to change tx freq, change freq in the osmocom sink
 
 now hook this up to power amp, and get that transmit power to 50KWatts  LOL
 
+using pavel demin's firmware image, the default IP of the red pitaya or trx-duo is 192.168.1.100
+so set your pc ip to 192.168.1.50
+i used a usb3.0 to ethernet adapter,  plugged ethernet cable direct to red pitaya, no need for ethernet switch.
+trx duo works the same way.
+
+
 
 
 
